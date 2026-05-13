@@ -16,16 +16,14 @@ html {
 }
 
 h1 {
-    font-family: sans-serif;
-    font-size: 1.2rem;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2rem;
     text-shadow: 1px 1px 2px black;
-    letter-spacing: 1.2;
+    letter-spacing: 1.2em;
     border-bottom: 3px solid rgb(115, 115, 114);
 
 }
 
-#basic {
-    p {
-        font-weight: bold;
-    }
+#basic p {
+    font-weight: bold;
 }
